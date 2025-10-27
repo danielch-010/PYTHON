@@ -1,0 +1,5 @@
+Descripción:
+Este código crea una calculadora gráfica de cálculo simbólico usando Python y Tkinter. Permite al usuario ingresar expresiones matemáticas, derivarlas, integrarlas (definida e indefinida) y mostrar los pasos de cálculo. Además, valida la sintaxis en tiempo real, permite insertar superíndices y subíndices, y grafica las funciones usando Plotly.
+
+Description:
+This code creates a symbolic math calculator using Python and Tkinter. It allows the user to input mathematical expressions, compute derivatives and integrals (definite and indefinite), and display step-by-step calculations. It also validates syntax in real-time, supports inserting superscripts and subscripts, and plots functions using Plotly.
